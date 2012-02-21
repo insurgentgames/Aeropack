@@ -27,3 +27,6 @@ Insurgent Games was founded in 2009 by Micah Lee and Crystal Mayer out of their 
 Now, several years later, Micah works for the Electronic Frontier Foundation defending internet users from evil (https://www.eff.org/files/xkcd_comic.png), and Crystal is a freelance web designer (http://moonsprocket.com/). But Insurgent Games is dormant.
 
 Since we're not working on the games anymore, we decided to release them to the community where maybe they can thrive and be reborn as bigger and better things. All of our games are licensed under the GNU General Public License.
+
+* Follow Micah on Twitter: https://twitter.com/#!/micahflee
+* Follow Insurgent Games on Twitter: https://twitter.com/#!/insurgentgames
